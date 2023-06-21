@@ -1,3 +1,9 @@
+This app is made with React, TailwindCSS and Appwrite for the DB and backend
+
+Simple workout log which may turn into a full length tutorial with additional features. Current state only retrieves the records from the DB.
+![Workout Log Appwrite](https://github.com/dannythompson901/WorkoutLogAppwrite/assets/39189903/80873f95-3189-436d-a8bc-564c74c9c482)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
